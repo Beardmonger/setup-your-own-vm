@@ -10,6 +10,11 @@ After the change, I did notice the VM's graphical performance improve with the c
 
 
 ## Your second VM
-
-
+My VM is running the Windows 10 Pro OS.
+Compared to the first time around, I had little issue getting the VM set up. Each step went through without an error.
+I allocated 4 GB of Ram and 32 GB of hard disk storage. I chose these amounts dbecaus ethey give more than the minimum requriements torun the VM, which should increase its fuctionality.
+If I were to allocate too much RAM to the VM, my physical device would begin to experiance issues when attempting to run the VM. There would not be enough RAM for the background processes to operate propperly.
+I enabled 3D acceleration and increased my video memory allocation to maximum because I was noticing a bit of error with the video quality when starting up the device.
+I noticed a drastic change to the visuals and the starange visuals I was receiving are gone after the settings changes.
+Other settings which could be important for optimizing a VM's performance could be the Graphics Controller option when setting up your display settings and even monitor count could effect the output of the machine if configured wrong.
 
